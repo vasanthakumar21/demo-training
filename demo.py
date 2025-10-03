@@ -1,4 +1,4 @@
 
 
 print('vasanth')
-print('new ')
+print('new')
